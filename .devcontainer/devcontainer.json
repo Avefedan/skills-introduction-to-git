@@ -1,5 +1,5 @@
 {
-  "image": "mcr.microsoft.com/vscode/devcontainers/base:alpine-3.14",
+  "image": "mcr.microsoft.com/vscode/devcontainers/base:debian",
 
   "customizations": {
     "vscode": {
