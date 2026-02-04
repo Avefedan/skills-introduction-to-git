@@ -13,6 +13,7 @@ echo "Exercise Monitor: Enabled event: post-checkout"
 echo "Exercise Monitor: Enabled event: post-merge"
 
 # Add support for running monitors in the background using tmux and inotify
+sudo apt update && sudo apt upgrade
 sudo apt install tmux -y
 sudo apt install inotify-tools -y
 
