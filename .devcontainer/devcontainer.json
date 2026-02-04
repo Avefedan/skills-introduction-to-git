@@ -1,5 +1,5 @@
 {
-  "image": "mcr.microsoft.com/vscode/devcontainers/base:alpine-3.20",
+  "image": "mcr.microsoft.com/vscode/devcontainers/base:alpine-3.14",
 
   "customizations": {
     "vscode": {
